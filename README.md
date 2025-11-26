@@ -21,7 +21,7 @@ All projects were completed using Python, Pandas, NumPy, Matplotlib/Seaborn, Sci
 - EDA & visualization  
 - Business insights & decision making  
 
-👉 [View Project](./Superstore-Sales-Analysis/)
+👉 [View Project](./Stock%20Market%20Analysis/Stock_Price_Analysis.ipynb)
 
 ---
 
@@ -37,7 +37,7 @@ All projects were completed using Python, Pandas, NumPy, Matplotlib/Seaborn, Sci
 - ML models: Logistic Regression, Random Forest  
 - Model evaluation (accuracy, classification report)  
 
-👉 [View Project](./Heart-Disease-Prediction/)
+👉 [View Project](./Healthcare%20Heart%20Disease%20Analysis/Heart_Disease_Prediction.ipynb)
 
 ---
 
@@ -53,7 +53,7 @@ All projects were completed using Python, Pandas, NumPy, Matplotlib/Seaborn, Sci
 - Pattern discovery  
 - Player and venue analytics  
 
-👉 [View Project](./IPL-Analysis/)
+👉 [View Project](./IPL%20Analysis/IPL_Match_&_Player_Analysis.ipynb)
 
 ---
 
@@ -69,7 +69,7 @@ All projects were completed using Python, Pandas, NumPy, Matplotlib/Seaborn, Sci
 - Country & genre analysis  
 - Trend understanding over time  
 
-👉 [View Project](./Netflix-Analysis/)
+👉 [View Project](./netflix%20movies%20and%20shows%20Analysis/Netflix_Content_Analysis.ipynb)
 
 ---
 
@@ -85,7 +85,7 @@ All projects were completed using Python, Pandas, NumPy, Matplotlib/Seaborn, Sci
 - Moving averages & rolling statistics  
 - Optional regression-based price prediction  
 
-👉 [View Project](./Stock-Analysis/)
+👉 [View Project](./Stock%20Market%20Analysis/Stock_Price_Analysis.ipynb)
 
 ---
 
